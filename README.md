@@ -1,5 +1,7 @@
-# EC-Team-22-Yet-Another-Distributed-File-System-YADFS-
+# Yet Another Distributed File-System YADFS
 Repo for EC-Team-22-Yet Another Distributed File System (YADFS)
+
+This project tries to replicate the main functionality of HDFS which is distribution of data blocks into multiple data nodes via NameNode.
 
 You can run the NameNode and then DataNode by using:
 
@@ -11,7 +13,7 @@ python3 datanode1.py
 
 python3 datanode2.py
 
-It performs 2 operation for now:
+It performs 2 operation:
 
 1)Uploading of the file into blocks.
 
