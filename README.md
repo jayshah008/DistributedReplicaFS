@@ -1,5 +1,4 @@
 # Yet Another Distributed File-System YADFS
-Repo for EC-Team-22-Yet Another Distributed File System (YADFS)
 
 This project tries to replicate the main functionality of HDFS which is distribution of data blocks into multiple data nodes via NameNode.
 
